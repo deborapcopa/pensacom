@@ -1,4 +1,4 @@
-#%%
+#%% ESTOS CODIGOS ESTAN EN CORRECCION!!!
 # El objetivo del ejercicio es poder crear objetos que guarden la información
 #  de tiempo y realizar diferentes operaciones entre distintos objetos de la 
 #  misma clase, pero sólo válidas durante el día actual.En primer lugar, 
